@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Expanditure</string>
+    <string name="date"> 날   짜 : </string>
+    <string name="item"> 품   목 : </string>
+    <string name="price"> 가   격 : </string>
+    <string name="btnHouse">주 거</string>
+    <string name="btnTelecom">통 신</string>
+    <string name="btnTrans">교 통</string>
+    <string name="btnFood">음 식</string>
+    <string name="btnShopping">쇼 핑</string>
+</resources>
